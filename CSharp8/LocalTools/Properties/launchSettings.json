@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EolFixer": {
+      "commandName": "Project",
+      "commandLineArgs": " -- --dry-run -p *.txt -v"
+    }
+  }
+}
