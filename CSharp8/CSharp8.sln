@@ -25,7 +25,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Http2Client", "Http2Client\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericHost", "GenericHost\GenericHost.csproj", "{3F78A80D-ED37-41EF-9479-B27804F1CEBE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceImplementation", "InterfaceImplementation\InterfaceImplementation.csproj", "{A0AC2DF5-72B6-4CD9-A935-60555DFE37BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceImplementation", "InterfaceImplementation\InterfaceImplementation.csproj", "{6E509B5C-2459-455E-A166-2D80CF5FD103}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -77,10 +77,10 @@ Global
 		{3F78A80D-ED37-41EF-9479-B27804F1CEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F78A80D-ED37-41EF-9479-B27804F1CEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F78A80D-ED37-41EF-9479-B27804F1CEBE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A0AC2DF5-72B6-4CD9-A935-60555DFE37BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A0AC2DF5-72B6-4CD9-A935-60555DFE37BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A0AC2DF5-72B6-4CD9-A935-60555DFE37BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A0AC2DF5-72B6-4CD9-A935-60555DFE37BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E509B5C-2459-455E-A166-2D80CF5FD103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E509B5C-2459-455E-A166-2D80CF5FD103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E509B5C-2459-455E-A166-2D80CF5FD103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E509B5C-2459-455E-A166-2D80CF5FD103}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
